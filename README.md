@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @siberiantiger21
+- 👋 Hi, I'm Julius Chau from Vietnam
 - 👀 I’m interested in learning, languages, billiards, nerdy hobbies,...
 - 🌱 I’m currently learning SQL-related languages and frameworks, machine learning
 - 💞️ I’m looking to collaborate on data-related field opportunities
